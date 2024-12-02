@@ -32,7 +32,7 @@ There are three python files in this project: airline_gui.py, airline_db.py, add
 
 airline.db
 
-##Test Queries
+### Test Queries
 
 Query-1: To retrieve the data values from crew table, we used 
     SELECT * from Crew
