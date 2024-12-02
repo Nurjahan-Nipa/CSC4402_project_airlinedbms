@@ -1,5 +1,29 @@
 # CSC4402_project_airlinedbms
 
+# Airline Database Management System
+
+This project is an Airline Management System developed using Python, SQLite, and LaTeX for report generation. The system is designed to manage passengers, flights, reservations, crew, aircraft, and maintenance tasks efficiently.
+
+### Database Tables:
+- **Passenger**: Stores passenger details.
+- **Flight**: Tracks flight schedules and aircraft/crew associations.
+- **Reservation**: Manages passenger reservations.
+- **Crew**: Stores crew member details.
+- **Aircraft**: Tracks aircraft information and maintenance tasks.
+- **MaintenanceTask**: Defines maintenance tasks.
+- **FlightCrew**: Many-to-many relationship between flights and crew.
+- **AircraftMaintenance**: Many-to-many relationship between aircraft and maintenance tasks.
+
+---
+
+## Getting Started
+
+### Prerequisites:
+- Python 3.9 or higher
+- SQLite
+- LaTeX distribution (e.g., TeX Live, MikTeX, or Overleaf)
+- 
+
 ** Code Files**
 
 There are three python files in this project: airline_gui.py, airline_db.py, add_data_db.py. The airline_gui.py is for generating the graphical user interface, connecting the background database file, defining functions for each modules like add, update, delete, view. The airline_db.py is for creating the tables for database and add_data_db.py is used for inserting values to the database.
