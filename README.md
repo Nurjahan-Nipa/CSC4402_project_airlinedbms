@@ -24,7 +24,7 @@ This project is an Airline Management System developed using Python, SQLite, and
 - LaTeX distribution (e.g., TeX Live, MikTeX, or Overleaf)
 - 
 
-** Code Files**
+### Code Files
 
 There are three python files in this project: airline_gui.py, airline_db.py, add_data_db.py. The airline_gui.py is for generating the graphical user interface, connecting the background database file, defining functions for each modules like add, update, delete, view. The airline_db.py is for creating the tables for database and add_data_db.py is used for inserting values to the database.
 
@@ -32,7 +32,7 @@ There are three python files in this project: airline_gui.py, airline_db.py, add
 
 airline.db
 
-**Test Queries: **
+##Test Queries
 
 Query-1: To retrieve the data values from crew table, we used 
     SELECT * from Crew
