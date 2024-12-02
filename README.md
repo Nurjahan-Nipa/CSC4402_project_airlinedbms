@@ -26,7 +26,7 @@ This project is an Airline Management System developed using Python, SQLite, and
 
 ### Code Files
 
-There are three python files in this project: airline_gui.py, airline_db.py, add_data_db.py. The airline_gui.py is for generating the graphical user interface, connecting the background database file, defining functions for each modules like add, update, delete, view. The airline_db.py is for creating the tables for database and add_data_db.py is used for inserting values to the database.
+There are four python files in this project: airline_gui.py, airline_db.py, add_data_db.py, view_queries.py. The airline_gui.py is for generating the graphical user interface, connecting the background database file, defining functions for each modules like add, update, delete, view. The airline_db.py is for creating the tables for database and add_data_db.py is used for inserting values to the database. The view_queries.py contains some basic query.
 
 ** Database File**
 
