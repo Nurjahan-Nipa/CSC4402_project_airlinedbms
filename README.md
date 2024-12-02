@@ -1,5 +1,7 @@
 # CSC4402_project_airlinedbms
 
+GitHub link: https://github.com/Nurjahan-Nipa/CSC4402_project_airlinedbms/tree/main
+
 # Airline Database Management System
 
 This project is an Airline Management System developed using Python, SQLite, and LaTeX for report generation. The system is designed to manage passengers, flights, reservations, crew, aircraft, and maintenance tasks efficiently.
@@ -20,9 +22,17 @@ This project is an Airline Management System developed using Python, SQLite, and
 
 ### Prerequisites:
 - Python 3.9 or higher
-- SQLite
+- DB Browser for SQLite
 - LaTeX distribution (e.g., TeX Live, MikTeX, or Overleaf)
-- 
+
+### Platform
+Visual Studio Code/Jupyter; 
+
+### Instructions:
+
+First, you have to run airline_gui.py file to perform various operations like addition, update, delete, view.
+To retrive specific queries, you need to open the database in dbbrowser for SQLite, then go to the execute SQL panel and run the following tets queries.
+
 
 ### Code Files
 
