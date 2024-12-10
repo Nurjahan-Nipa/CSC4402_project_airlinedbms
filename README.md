@@ -3,7 +3,7 @@
 GitHub link: https://github.com/Nurjahan-Nipa/CSC4402_project_airlinedbms/tree/main
 
 Group Members:
-Nurjahan, Nurjahan (nurja1@lsu.edu)
+Nurjahan (nurja1@lsu.edu)
 Saima Sanjida Shila (sshila1@lsu.edu)
 Kaushani Samarawickrama (ksamar2@lsu.edu)
 
